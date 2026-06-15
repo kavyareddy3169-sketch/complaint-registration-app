@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/contact/page": "/contact",
+  "/dashboard/admin/page": "/dashboard/admin",
+  "/dashboard/page": "/dashboard",
+  "/forgot-password/page": "/forgot-password",
+  "/login/page": "/login",
+  "/register/page": "/register",
+  "/track/page": "/track",
+  "/submit-complaint/page": "/submit-complaint",
+  "/about/page": "/about",
+  "/page": "/"
+}
